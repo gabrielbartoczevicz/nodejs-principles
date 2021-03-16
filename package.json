@@ -1,0 +1,11 @@
+{
+  "name": "nodejs-principles",
+  "version": "1.0.0",
+  "main": "./src/server.js",
+  "repository": "https://github.com/gabrielbartoczevicz/nodejs-principles",
+  "author": "Gabriel Bartoczevicz <gabriel.bartoczevicz@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
